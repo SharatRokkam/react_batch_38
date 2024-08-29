@@ -1,0 +1,40 @@
+1. What is Javascript 🤔⁉️⁉️⁉️⁉️
+
+2. Where can we use it  🤘?
+
+3. Why Javascript not some thing else?? 🤩🤩🤩🤩
+--> Crucial role for front end and backend...
+--> Its easy learn.
+--> its flexible - games, app, web application, desktop application..
+------------------------------------------------------------------------------------------------
+
+
+JavaScript Refresher (Important Concepts to know before starting React 💡)
+
+1. 🎊🎊 Variables - Let var and const 🎊🎊
+
+2. 🔨⛏️ DataTypes 
+
+3. Array 🎊🎊 Methods 🚨🚨🚨
+
+4. Objects 🤖 in Javascript 🤯🤯
+
+5. Functions 🙀
+
+6. ES6+ features 🤯
+   -->Spread and Rest Operators
+   -->Promises
+   -->Async Await
+   -->Destructuring
+   -->Template Literals
+   -->Classes
+
+7. Import and Exports (Modules)🙀🙀🙀
+
+
+-------------------------------------------------------------------------------
+
+1.Manual updating of the DOM 
+2. Imperative(JS) and declarative
+3. HTML< CSS< JS - React (App.jsx) 
+
