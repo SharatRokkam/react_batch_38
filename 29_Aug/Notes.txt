@@ -38,3 +38,16 @@ JavaScript Refresher (Important Concepts to know before starting React 💡)
 2. Imperative(JS) and declarative
 3. HTML< CSS< JS - React (App.jsx) 
 
+
+
+ES5 vs ES6 - 2015 (interview questions)
+1. let and const 
+2. Promises
+3. Arrow Functions
+4.  `` String Interpolation
+5. Classes
+6. Spread and Rest Operators (...)
+7. Destructuring
+8. Array
+9. ternary --> condition ? "yes" or "no";
+
