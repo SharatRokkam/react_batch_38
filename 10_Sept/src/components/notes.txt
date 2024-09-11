@@ -1,0 +1,16 @@
+Conditional Rendering ......(JS- if else, while, do while, switch)
+It is the process of displaying some content(components, jsx, elements) on the screen depending upon certain conditions...
+
+1. If else
+2. elements variables
+3. Ternary Operator
+4. short circuit operator
+
+
+React Fragments
+
+Styling in React -->
+1. CSS Libraries - Tailwind, Bootstrap, SCSS, SASS, Material UI
+2. Inline Styling
+3. External Styling
+4. Module Styling

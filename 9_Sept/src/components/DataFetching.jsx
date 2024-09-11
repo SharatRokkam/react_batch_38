@@ -28,11 +28,14 @@ const DataFetching = () => {
     <div>
       <h1>Products List</h1>
       {/* dynamically rendering the list  */}
-      <ul>
-        {data.map((post) => (
-          <li key={post.id}>{post.title}</li>
-        ))}
-      </ul>
+
+      {data.map((post) => (
+        <div key={post.id}>
+          <img src={post.image} alt={post.title} />
+          <h2>{post.title}</h2>
+          <h4>{post.price}</h4>
+        </div>
+      ))}
     </div>
   );
 };
