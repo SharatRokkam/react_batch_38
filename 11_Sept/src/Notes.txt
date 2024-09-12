@@ -1,0 +1,5 @@
+Exports and Imports in ES6 version
+
+1. Named Exports - from one file we can send multiple named exports.
+2. Default Exports  - Each and every compoenent must have only one default export.
+
