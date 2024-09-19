@@ -1,0 +1,14 @@
+Problem Statement:
+1. Whole Page Reloads
+2. Navbar wasn't visible
+
+React :
+Router DOM - its not a part of react 
+React Router DOM - its a third party library which needs to be installed (npm i react-router-dom)
+
+
+React Router DOM :
+BrowserRouter(we wrap our(app) react project around the browserRouter)
+Routes
+Route 
+Link and NavLink

@@ -11,7 +11,7 @@ const MultiForm = () => {
     const { name, value } = e.target;
     setFormData((prevData) => ({
       ...prevData,
-      [name]: value
+      [name]: value,
     }));
   };
 
@@ -28,25 +28,25 @@ const MultiForm = () => {
           <input
             type="text"
             value={formData.name}
-            name="Name"
+            name="name"
             onChange={handleChange}
           />
         </label>
         <label>
           Email :
           <input
-            type="email"
+            type="Email"
             value={formData.email}
-            name="Email"
+            name="email"
             onChange={handleChange}
           />
         </label>
         <label>
           Password :
           <input
-            type="password"
+            type="Password"
             value={formData.password}
-            name="Password"
+            name="password"
             onChange={handleChange}
           />
         </label>
