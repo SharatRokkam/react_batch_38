@@ -1,0 +1,16 @@
+Context API : In React context api is a way to manage the global state and make the data accessible throughout the component.
+
+It is a way to avoid props drilling technique and ensure that data is received in the desired component..
+
+PropDrilling :
+
+App.jsx --> Comp A --> Comp B --> Comp C(data)
+
+Context API : 
+1. Provider 2. Consumer 3. Context(Store)
+
+
+
+Interview :::
+What do you know Context API ?
+What is the difference between CA and Redux?
