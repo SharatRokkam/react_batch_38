@@ -14,3 +14,10 @@ Context API :
 Interview :::
 What do you know Context API ?
 What is the difference between CA and Redux?
+
+
+Create a theme changer(dark and light) mode with context API.
+
+ThemeProvider.jsx
+ThemeChanger.jsx
+UpdateTheme.jsx 

@@ -1,10 +1,10 @@
 import React from "react";
 //hook
-// import { useContext } from "react";
+import { useContext } from "react";
 import { UserContext } from "./UserProvider";
 
 const UserProfile = () => {
-  //   const { user } = useContext(UserContext);
+    const { user } = useContext(UserContext);
 
   return (
     <>
