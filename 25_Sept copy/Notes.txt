@@ -22,12 +22,3 @@ In Short:
 Client state is data that lives in your app, and you control it completely.
 Server state is data stored on a server, and it can be changed by others, so you need to fetch and update it using APIs.
 Managing server state requires special tools because it’s asynchronous, can get outdated, and might be modified by other users or systems outside your app.
-
-
-
-Context API : 
-State management tools
-
-React-Router-DOM :
-
-useReducer Hook 

@@ -5,15 +5,15 @@ import cartContext from "./components/context";
 import { NavLink } from "react-router-dom";
 
 const App = () => {
+  const { isPending, isError, data, error } = useProducts();
+
   const { dispatch } = useContext(cartContext);
 
-  // console.log("cart : ", state.cart);
+  // console.log(state.cart);
 
   const addToCart = (product) => {
     dispatch({ type: "ADD_TO_CART", payload: product });
   };
-
-  const { isPending, isError, data, error } = useProducts();
 
   if (isPending) {
     return <h3>Loading...⁉️</h3>;
@@ -22,8 +22,6 @@ const App = () => {
   if (isError) {
     return <h3>{error.message}</h3>;
   }
-
-  
   return (
     <>
       <NavLink to="/cart">Cart</NavLink>
