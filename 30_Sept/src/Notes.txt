@@ -1,0 +1,17 @@
+useState, useEffect, useRef, useContext, useNavigate, useParams, useSearchParam, useQuery, useReducer, useMemo and useCallback...
+
+useMemo : is a hook to memoize(remembering) the value of any expensive calculation, so that react application does not have to do the same task again...
+
+Using which we can optimize the performance of your react project...
+
+const cachedValue = useMemo(calculateValue, dependencies)
+
+
+person A(student) -----person B(Teacher)
+
+
+42 * 4 ---> 168
+23 * 3 ---> 69
+22 * 4 ---> 88
+
+
