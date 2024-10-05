@@ -1,0 +1,13 @@
+Components : Functional Components and Class Components
+
+Legacy --- production 
+
+Company ->> New ?? project
+---> Existing, maintain the code or project
+
+--> Class component ? Sharat didn't teach me!!!
+--------------------------------------------------------------------------------------
+
+Functional : Function Arrow, Declaration function and expression....
+2013: Class Component
+
